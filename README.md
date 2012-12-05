@@ -1,4 +1,4 @@
-ow2-mirror-config
-=================
+# ow2-mirror-config
 
-Configuration files for OW2 Mirror
+
+Configuration files for OW2 Mirroring.
