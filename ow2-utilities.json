@@ -1,0 +1,14 @@
+{
+  "target" : "ow2-utilities",
+  "repositories" : 
+  [
+    {
+      "name" : "parent",
+      "git_url" : "http://git.gitorious.ow2.org/ow2-utilities/parent.git"
+    },
+    {
+      "name" : "log-api",
+      "git_url" : "http://git.gitorious.ow2.org/ow2-utilities/log-api.git"
+    }
+  ]
+}
