@@ -1,0 +1,10 @@
+{
+  "target" : "ow2-compatibleone",
+  "repositories" : 
+  [
+    {
+      "name" : "accords-platform",
+      "git_url" : "http://git.gitorious.ow2.org/ow2-compatibleone/accords-platform.git"
+    }
+  ]
+}
