@@ -1,0 +1,14 @@
+{
+  "target" : "ow2-sirocco",
+  "repositories" : 
+  [
+    {
+      "name" : "sirocco-cimi-api-server",
+      "git_url" : "http://git.gitorious.ow2.org/ow2-sirocco/sirocco-cimi-api-server.git"
+    },
+    {
+      "name" : "sirocco-cimi-client",
+      "git_url" : "http://git.gitorious.ow2.org/ow2-sirocco/sirocco-cimi-client.git"
+    }
+  ]
+}
