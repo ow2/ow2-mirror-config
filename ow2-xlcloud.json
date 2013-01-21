@@ -7,10 +7,6 @@
       "git_url" : "http://git.gitorious.ow2.org/xlcloud/vcms.git"
     },
     {
-      "name" : "vcbs",
-      "git_url" : "http://git.gitorious.ow2.org/xlcloud/vcbs.git"
-    },
-    {
       "name" : "vca",
       "git_url" : "http://git.gitorious.ow2.org/xlcloud/vca.git"
     },
@@ -25,10 +21,6 @@
     {
       "name" : "heat-resources",
       "git_url" : "http://git.gitorious.ow2.org/xlcloud/heat-resources.git"
-    },
-    {
-      "name" : "kwapi",
-      "git_url" : "http://git.gitorious.ow2.org/xlcloud/kwapi.git"
     }
   ]
 }
